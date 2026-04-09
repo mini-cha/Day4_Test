@@ -1,0 +1,16 @@
+깃허브 실습중
+1. git init : 내 폴더를 초기화(로컬 깃일때)
+윈도우에 폴더 생성
+VSCode에서 폴더 선택
+터미널에서 아래 명령어 입력
+2. git clone URL주소(shift+Ins) . : 깃허브의 URL주소를 현재 폴더와 연결
+
+3. git add . : 현재 폴더를 깃에 추가
+
+4. git commit -m 'Message' : -m 을 통해 깃에 메세지로 버전관리
+
+5. git push : 깃허브에 올리기(commit 된 파일들을 Upload)
+
+6. git pull : 깃허브에 있는 파일 내려받기
+
+
